@@ -11,15 +11,14 @@ It contains code and data for positional classification in football using both h
 ## 📁 Repository Structure
 
 FileDescription
-MIT1_Aggregate Player Stats on World cupExtracts player-level stats from event data
-
-MIT2_Aggregating_Mean_Tactical_KPIs_by_Position` | Computes per-minute KPIs by position |
-| `MIT3_Generating_and_Flipping_Heatmaps` | Creates and vertically flips pass heatmaps |
-| `MIT4_Positional_Classification_by_Heatmap_CNN` | CNN-based classification using heatmap images |
-| `MIT5_Random_Forest_Classification_of_KPI` | Random Forest classification using stats only |
-| `MIT6_Multimodal_Classification_by_Heatmap_and_KPI` | Combines image and stats for multimodal classification |
-| `LICENSE` | MIT License |
-| `README.md` | This file |
+1. MIT1_Aggregate Player Stats on World cup |Extracts player-level stats from event data
+2. MIT2_Aggregating_Mean_Tactical_KPIs_by_Position |Computes per-minute KPIs by position
+3. MIT3_Generating_and_Flipping_Heatmaps` | Creates and vertically flips pass heatmaps
+4. MIT4_Positional_Classification_by_Heatmap_CNN` | CNN-based classification using heatmap images
+5. MIT5_Random_Forest_Classification_of_KPI` | Random Forest classification using stats only
+6. MIT6_Multimodal_Classification_by_Heatmap_and_KPI` | Combines image and stats for multimodal classification
+7. LICENSE | MIT License |
+8. README.md` | This file |
 
 ---
 
