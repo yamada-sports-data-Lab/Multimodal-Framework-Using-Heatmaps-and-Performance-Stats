@@ -26,12 +26,16 @@ It contains code and data for positional classification in football using both h
 
 ## 🚀 How to Run (Google Colab Recommended)
 
-1. Open each notebook in [Google Colab
-2. Mount your Google Drive.
-3. Ensure the following folders and files are available:
-   - `/content/drive/MyDrive/MIT_Sloan/heatmaps_all/` (heatmap images)
-   - `/content/drive/MyDrive/MIT_Sloan/position_stats_mean_per_min_small_class.csv` (stats CSV)
-4. Run notebooks in order from MIT1 to MIT6.
+1. Open each notebook in [Google Colab](https://colab Google Drive.
+2. Mount your Google Drive. 
+3. Required folders and files will be automatically generated in your Google Drive  
+   by running the MIT1 to MIT3 notebooks:
+
+   - `/content/drive/MyDrive/MIT_Sloan/heatmaps_all/` — Heatmap images  
+   - `/content/drive/MyDrive/MIT_Sloan/position_stats_mean_per_min_small_class.csv` — Stats CSV
+
+4. Run the notebooks in order from MIT1 to MIT6.
+
 
 ---
 
