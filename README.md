@@ -8,9 +8,20 @@ It contains code and data for positional classification in football using both h
 
 ---
 
+
 ## 📁 Repository Structure
 
-File NameDescriptionMIT1_Aggregate_Player_Stats_on_World_Cup.ipynbExtracts player-level stats from event dataMIT2_Aggregating_Mean_Tactical_KPIs_by_Position.ipynbComputes per-minute KPIs by positionMIT3_Generating_and_Flipping_Heatmaps.ipynbCreates and vertically flips pass heatmapsMIT4_Positional_Classification_by_Heatmap_CNN.ipynbCNN-based classification using heatmap imagesMIT5_Random_Forest_Classification_of_KPI.ipynbRandom Forest classification using stats onlyMIT6_Multimodal_Classification_by_Heatmap_and_KPI.ipynbCombines image and stats for multimodal classificationLICENSEMIT License| `README.md` | This file |
+| File | Description |
+|------|-------------|
+| `MIT1_Aggregate Player Stats on World cup` | Extracts player-level stats from event data |
+| `MIT2_Aggregating_Mean_Tactical_KPIs_by_Position` | Computes per-minute KPIs by position |
+| `MIT3_Generating_and_Flipping_Heatmaps` | Creates and vertically flips pass heatmaps |
+| `MIT4_Positional_Classification_by_Heatmap_CNN` | CNN-based classification using heatmap images |
+| `MIT5_Random_Forest_Classification_of_KPI` | Random Forest classification using stats only |
+| `MIT6_Multimodal_Classification_by_Heatmap_and_KPI` | Combines image and stats for multimodal classification |
+| `LICENSE` | MIT License |
+| `README.md` | This file |
+
 ---
 
 ## 🚀 How to Run (Google Colab Recommended)
